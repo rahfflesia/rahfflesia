@@ -1,1 +1,1 @@
-trying to become a full stack dev.
+full stack dev wannabe
